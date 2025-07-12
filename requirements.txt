@@ -1,0 +1,13 @@
+uvicorn
+fastapi
+pymupdf
+python-multipart
+langchain
+faiss-cpu
+sentence-transformers
+langchain-community
+google-generativeai
+python-dotenv
+pinecone-client
+youtube-transcript-api
+qdrant-client
